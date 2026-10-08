@@ -1,4 +1,6 @@
-# Rebepal Madu — Research & Field Notes
+# Rebepal Madu · B2B Honey Supply · Indonesia
+
+Research & Field Notes
 
 This repository contains the research, operating ideas, experiments, and field notes behind **Rebepal Madu**, an Indonesian B2B honey supplier serving industrial and commercial buyers.
 

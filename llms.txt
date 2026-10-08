@@ -1,0 +1,17 @@
+# Rebepal Madu — Research & Field Notes
+
+> Rebepal Madu is a B2B honey business and real-world laboratory for developing lean, asset-light approaches to local commerce.
+
+This site documents the operating ideas, experiments, and field observations behind Rebepal Madu. Its primary framework is The Lean Local Commerce Model.
+
+## Framework
+
+- [The Lean Local Commerce Model](https://rebepalmadu.github.io/): An asset-light framework for turning local supply into trusted B2B commerce through demand discovery, supplier coordination, information readiness, digital discovery, qualification, and procurement.
+
+## Research & Field Notes
+
+- [Rebepal Madu Research & Field Notes](https://rebepalmadu.github.io/): The knowledge and field-notes layer documenting practical operating experiments and lessons.
+
+## Commercial
+
+- [Rebepal Madu](https://rebepalmadu.com/): The commercial website for B2B honey products, procurement information, and business inquiries.

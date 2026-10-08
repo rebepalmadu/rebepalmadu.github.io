@@ -48,6 +48,4 @@ https://rebepalmadu.com/
 
 ---
 
-**Rebepal Madu**
-Indonesia
-B2B Honey Supply & Commerce Research
+**Rebepal Madu** · B2B Honey Supply · Indonesia
